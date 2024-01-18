@@ -1,0 +1,118 @@
+{
+  "pageSize": 10,
+  "pageNumber": 1,
+  "totalCount": 12,
+  "data": [
+    {
+      "sellerId": "A3P5ROKL5A1OLE",
+      "sellerName": "Amazon",
+      "winRatePercentage": 91,
+      "hasFba": true,
+      "ratingPercentage": 0,
+      "ratingCount": 0,
+      "country": 0,
+      "lastWonUTC": 1704714000000,
+      "winDurationSeconds": 5394488
+    },
+    {
+      "sellerId": "A2RV5RVII6YBBL",
+      "sellerName": "ToyBarnhaus",
+      "winRatePercentage": 4,
+      "hasFba": false,
+      "ratingPercentage": 96,
+      "ratingCount": 993,
+      "country": 0,
+      "lastWonUTC": 1704740460000,
+      "winDurationSeconds": 210060
+    },
+    {
+      "sellerId": "A1F7JBVYMUZP1T",
+      "sellerName": "World Wide Shopping Mall Ltd",
+      "winRatePercentage": 1,
+      "hasFba": false,
+      "ratingPercentage": 97,
+      "ratingCount": 32239,
+      "country": 0,
+      "lastWonUTC": 1700083080000,
+      "winDurationSeconds": 78360
+    },
+    {
+      "sellerId": "AHVWQNCGHTOW9",
+      "sellerName": "martzon",
+      "winRatePercentage": 1,
+      "hasFba": true,
+      "ratingPercentage": 100,
+      "ratingCount": 11,
+      "country": 0,
+      "lastWonUTC": 1698155040000,
+      "winDurationSeconds": 77520
+    },
+    {
+      "sellerId": "A23P07F7BS9WLE",
+      "sellerName": "AUTHENTIC WORLD",
+      "winRatePercentage": 1,
+      "hasFba": false,
+      "ratingPercentage": 78,
+      "ratingCount": 499,
+      "country": 0,
+      "lastWonUTC": 1703261280000,
+      "winDurationSeconds": 52440
+    },
+    {
+      "sellerId": "A2HCR73XB4YG06",
+      "sellerName": "EON ESSENTIALS",
+      "winRatePercentage": 1,
+      "hasFba": true,
+      "ratingPercentage": 100,
+      "ratingCount": 14,
+      "country": 0,
+      "lastWonUTC": 1703955720000,
+      "winDurationSeconds": 49320
+    },
+    {
+      "sellerId": "A39QOY7M7EVMGN",
+      "sellerName": "CWD Selling",
+      "winRatePercentage": 0,
+      "hasFba": true,
+      "ratingPercentage": 100,
+      "ratingCount": 11,
+      "country": 0,
+      "lastWonUTC": 1697101080000,
+      "winDurationSeconds": 25920
+    },
+    {
+      "sellerId": "A3VLEFR93GQMDN",
+      "sellerName": "YURRC (2 DAY DELIVERY)",
+      "winRatePercentage": 0,
+      "hasFba": true,
+      "ratingPercentage": 93,
+      "ratingCount": 95,
+      "country": 0,
+      "lastWonUTC": 1699873440000,
+      "winDurationSeconds": 9960
+    },
+    {
+      "sellerId": "A3E3MOWEGSSQUC",
+      "sellerName": "SHAW'S STUFF",
+      "winRatePercentage": 0,
+      "hasFba": true,
+      "ratingPercentage": 0,
+      "ratingCount": 0,
+      "country": 0,
+      "lastWonUTC": 1699912320000,
+      "winDurationSeconds": 5400
+    },
+    {
+      "sellerId": "AAC030W8STTTI",
+      "sellerName": "Wilkie Independent Trader",
+      "winRatePercentage": 0,
+      "hasFba": true,
+      "ratingPercentage": 99,
+      "ratingCount": 112,
+      "country": 0,
+      "lastWonUTC": 1697751120000,
+      "winDurationSeconds": 4320
+    }
+  ],
+  "hasNextPage": true
+}

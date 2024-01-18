@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: rgba(231, 225, 225, 0.603);
+}
+.container {
+  width: 1000px;
+  padding: 20px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+button {
+  cursor: pointer;
+}
+.box {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.box h1 {
+  margin: 0;
+  background-color: #ceced9b8;
+  color: #000000cc;
+  font-size: 40px;
+  line-height: normal;
+  font-weight: bold;
+  width: 99.4%;
+  text-align: center;
+  padding: 32px 0;
+  border-top-left-radius: 32px;
+  border-top-right-radius: 32px;
+  border: 3px solid #d0d0d0;
+  border-bottom: 0;
+}
+.box table {
+  background-color: white;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 3px solid #d0d0d0;
+  border-top: 0;
+  border-bottom: 0;
+}
+.box table thead th {
+  padding: 20px 0;
+  background-color: #1713761a;
+  font-size: 28px;
+  font-weight: 500;
+  border: 1px solid white;
+  border-top: 3px solid white;
+  border-right: 1px solid white;
+}
+.box table thead th:first-child {
+  border-left: 0;
+}
+.box table thead th:last-child {
+  border-right: 0;
+}
+
+.box table tbody tr {
+  text-align: center;
+}
+
+.box table tbody tr td {
+  padding: 16px 0;
+  background-color: #80808017;
+  font-size: 28px;
+  font-weight: 600;
+  border: 1px solid white;
+}
+.box table tbody tr td:first-child {
+  border-left: none;
+}
+.box table tbody tr td:last-child {
+  border-right: none;
+}
+
+.pagination {
+  background-color: white;
+  width: 93%;
+  padding: 20px 32px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+
+  border: 3px solid #d0d0d0;
+  border-top: 0;
+  border-bottom-left-radius: 32px;
+  border-bottom-right-radius: 32px;
+}
+
+.pagination button {
+  border: 3px solid #256bb0d6;
+  color: #256bb0d6;
+  border-radius: 16px;
+  padding: 12px 52px;
+  font-size: 32px;
+  font-weight: 600;
+}
+.pagination #page-numbers {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.pagination #page-numbers button {
+  padding: 12px 36px;
+}
+
+.current-page {
+  color: white !important;
+  background-color: #256bb0d6;
+  border: none !important;
+}
